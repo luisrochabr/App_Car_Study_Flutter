@@ -20,7 +20,7 @@ class CarrosApi {
     };
 
     var url =
-        'https://XXXXXcarros-springboot.herokuapp.com/api/v2/carros/tipo/$tipo';
+        'https://carros-springboot.herokuapp.com/api/v2/carros/tipo/$tipo';
 
     print("Get > $url");
 
